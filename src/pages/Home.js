@@ -20,7 +20,7 @@ if (!products) return <div>Loading...</div>
         <Box>
             <MiniBar />
             <Image src={womanfit} h="100%" margin="auto" 
-    objectFit="contain" objectPosition={["top", "center"]} />
+                objectFit="contain" objectPosition={["top", "center"]} />
               <Text
                     w="100%" textAlign="center" 
                     color="black" fontWeight="bold" 
